@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
 <head>
     <title>Intro to PHP</title>
 </head>
@@ -28,6 +28,14 @@
             echo "$int<br>";
         }
     }
+    echo"<h1>Things I learned about PHP</h1>
+        PHP stands for Hypertext Preprocessor.<br>
+        HTML tags can be inserted directly into PHP.<br>
+        Like Java, PHP is object oriented.<br>
+        Like Javascript, You don't have to specify data types.<br>
+        The $ is used to instantiate variables.<br>
+        Although PHP can run HTML, PHP cannot run in an HTML file."
+
 
 ?>
 </body>
